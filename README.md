@@ -44,4 +44,3 @@ Commits 2-4 attack these in order: reuse (shared memory), throughput
 
 - [CUTLASS](https://github.com/NVIDIA/cutlass) — NVIDIA's GEMM template library
 - [How to Optimize a CUDA Matmul Kernel](https://siboehm.com/articles/22/CUDA-MMM) — the step-by-step walkthrough this project mirrors
-- [LonghornSilicon/awesome-ai-accelerators](https://github.com/LonghornSilicon/awesome-ai-accelerators) — the curated map this learning path follows
