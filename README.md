@@ -1,6 +1,6 @@
 # cuda-gemm
 
-Learning GEMM the hard way: from a naive kernel up to CUTLASS, one commit at a time.
+Learning GEMM from kernel up to CUTLASS
 
 ## The plan
 
